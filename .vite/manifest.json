@@ -1,0 +1,100 @@
+{
+  "index.html": {
+    "file": "assets/app-DsoaEa-9.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/react-dom/client.js"
+    ],
+    "css": [
+      "assets/app-Dalsbd4f.css"
+    ],
+    "assets": [
+      "assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+      "assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+      "assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+      "assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+      "assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+      "assets/open-sans-cyrillic-ext-wght-normal-D8xHCTEw.woff2",
+      "assets/open-sans-cyrillic-wght-normal-bOs07Rf4.woff2",
+      "assets/open-sans-greek-ext-wght-normal-Bm9CHu9r.woff2",
+      "assets/open-sans-greek-wght-normal-8neIfJ3r.woff2",
+      "assets/open-sans-hebrew-wght-normal-BjjtG49P.woff2",
+      "assets/open-sans-math-wght-normal-C1FvUlkR.woff2",
+      "assets/open-sans-symbols-wght-normal-BAf6-sld.woff2",
+      "assets/open-sans-vietnamese-wght-normal-UygKeDyW.woff2",
+      "assets/open-sans-latin-ext-wght-normal-DPNHYqvY.woff2",
+      "assets/open-sans-latin-wght-normal-CWNzRldh.woff2"
+    ]
+  },
+  "node_modules/@fontsource-variable/geist/files/geist-cyrillic-ext-wght-normal.woff2": {
+    "file": "assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+    "src": "node_modules/@fontsource-variable/geist/files/geist-cyrillic-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/geist/files/geist-cyrillic-wght-normal.woff2": {
+    "file": "assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+    "src": "node_modules/@fontsource-variable/geist/files/geist-cyrillic-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/geist/files/geist-latin-ext-wght-normal.woff2": {
+    "file": "assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+    "src": "node_modules/@fontsource-variable/geist/files/geist-latin-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/geist/files/geist-latin-wght-normal.woff2": {
+    "file": "assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+    "src": "node_modules/@fontsource-variable/geist/files/geist-latin-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/geist/files/geist-vietnamese-wght-normal.woff2": {
+    "file": "assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+    "src": "node_modules/@fontsource-variable/geist/files/geist-vietnamese-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/open-sans/files/open-sans-cyrillic-ext-wght-normal.woff2": {
+    "file": "assets/open-sans-cyrillic-ext-wght-normal-D8xHCTEw.woff2",
+    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-cyrillic-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/open-sans/files/open-sans-cyrillic-wght-normal.woff2": {
+    "file": "assets/open-sans-cyrillic-wght-normal-bOs07Rf4.woff2",
+    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-cyrillic-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/open-sans/files/open-sans-greek-ext-wght-normal.woff2": {
+    "file": "assets/open-sans-greek-ext-wght-normal-Bm9CHu9r.woff2",
+    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-greek-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/open-sans/files/open-sans-greek-wght-normal.woff2": {
+    "file": "assets/open-sans-greek-wght-normal-8neIfJ3r.woff2",
+    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-greek-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/open-sans/files/open-sans-hebrew-wght-normal.woff2": {
+    "file": "assets/open-sans-hebrew-wght-normal-BjjtG49P.woff2",
+    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-hebrew-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/open-sans/files/open-sans-latin-ext-wght-normal.woff2": {
+    "file": "assets/open-sans-latin-ext-wght-normal-DPNHYqvY.woff2",
+    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-latin-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/open-sans/files/open-sans-latin-wght-normal.woff2": {
+    "file": "assets/open-sans-latin-wght-normal-CWNzRldh.woff2",
+    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-latin-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/open-sans/files/open-sans-math-wght-normal.woff2": {
+    "file": "assets/open-sans-math-wght-normal-C1FvUlkR.woff2",
+    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-math-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/open-sans/files/open-sans-symbols-wght-normal.woff2": {
+    "file": "assets/open-sans-symbols-wght-normal-BAf6-sld.woff2",
+    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-symbols-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/open-sans/files/open-sans-vietnamese-wght-normal.woff2": {
+    "file": "assets/open-sans-vietnamese-wght-normal-UygKeDyW.woff2",
+    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-vietnamese-wght-normal.woff2"
+  },
+  "node_modules/react-dom/client.js": {
+    "file": "assets/client-BMzd74oC.js",
+    "name": "client",
+    "src": "node_modules/react-dom/client.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  }
+}
