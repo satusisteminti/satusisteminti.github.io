@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/app-DsoaEa-9.js",
+    "file": "assets/app-BTQuvjoU.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
@@ -8,7 +8,7 @@
       "node_modules/react-dom/client.js"
     ],
     "css": [
-      "assets/app-Dalsbd4f.css"
+      "assets/app-DqC2NOsM.css"
     ],
     "assets": [
       "assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -16,17 +16,45 @@
       "assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
       "assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
       "assets/geist-latin-wght-normal-BgDaEnEv.woff2",
-      "assets/open-sans-cyrillic-ext-wght-normal-D8xHCTEw.woff2",
-      "assets/open-sans-cyrillic-wght-normal-bOs07Rf4.woff2",
-      "assets/open-sans-greek-ext-wght-normal-Bm9CHu9r.woff2",
-      "assets/open-sans-greek-wght-normal-8neIfJ3r.woff2",
-      "assets/open-sans-hebrew-wght-normal-BjjtG49P.woff2",
-      "assets/open-sans-math-wght-normal-C1FvUlkR.woff2",
-      "assets/open-sans-symbols-wght-normal-BAf6-sld.woff2",
-      "assets/open-sans-vietnamese-wght-normal-UygKeDyW.woff2",
-      "assets/open-sans-latin-ext-wght-normal-DPNHYqvY.woff2",
-      "assets/open-sans-latin-wght-normal-CWNzRldh.woff2"
+      "assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+      "assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+      "assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+      "assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+      "assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+      "assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+      "assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
+      "assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
+      "assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
+      "assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
+      "assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
+      "assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
+      "assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
+      "assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
     ]
+  },
+  "node_modules/@fontsource-variable/geist-mono/files/geist-mono-cyrillic-ext-wght-normal.woff2": {
+    "file": "assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+    "src": "node_modules/@fontsource-variable/geist-mono/files/geist-mono-cyrillic-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/geist-mono/files/geist-mono-cyrillic-wght-normal.woff2": {
+    "file": "assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+    "src": "node_modules/@fontsource-variable/geist-mono/files/geist-mono-cyrillic-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/geist-mono/files/geist-mono-latin-ext-wght-normal.woff2": {
+    "file": "assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+    "src": "node_modules/@fontsource-variable/geist-mono/files/geist-mono-latin-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/geist-mono/files/geist-mono-latin-wght-normal.woff2": {
+    "file": "assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+    "src": "node_modules/@fontsource-variable/geist-mono/files/geist-mono-latin-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/geist-mono/files/geist-mono-symbols2-wght-normal.woff2": {
+    "file": "assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+    "src": "node_modules/@fontsource-variable/geist-mono/files/geist-mono-symbols2-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/geist-mono/files/geist-mono-vietnamese-wght-normal.woff2": {
+    "file": "assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+    "src": "node_modules/@fontsource-variable/geist-mono/files/geist-mono-vietnamese-wght-normal.woff2"
   },
   "node_modules/@fontsource-variable/geist/files/geist-cyrillic-ext-wght-normal.woff2": {
     "file": "assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -48,48 +76,40 @@
     "file": "assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
     "src": "node_modules/@fontsource-variable/geist/files/geist-vietnamese-wght-normal.woff2"
   },
-  "node_modules/@fontsource-variable/open-sans/files/open-sans-cyrillic-ext-wght-normal.woff2": {
-    "file": "assets/open-sans-cyrillic-ext-wght-normal-D8xHCTEw.woff2",
-    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-cyrillic-ext-wght-normal.woff2"
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff": {
+    "file": "assets/instrument-serif-latin-400-italic-u__WvvIK.woff",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff"
   },
-  "node_modules/@fontsource-variable/open-sans/files/open-sans-cyrillic-wght-normal.woff2": {
-    "file": "assets/open-sans-cyrillic-wght-normal-bOs07Rf4.woff2",
-    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-cyrillic-wght-normal.woff2"
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff2": {
+    "file": "assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff2"
   },
-  "node_modules/@fontsource-variable/open-sans/files/open-sans-greek-ext-wght-normal.woff2": {
-    "file": "assets/open-sans-greek-ext-wght-normal-Bm9CHu9r.woff2",
-    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-greek-ext-wght-normal.woff2"
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff": {
+    "file": "assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff"
   },
-  "node_modules/@fontsource-variable/open-sans/files/open-sans-greek-wght-normal.woff2": {
-    "file": "assets/open-sans-greek-wght-normal-8neIfJ3r.woff2",
-    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-greek-wght-normal.woff2"
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff2": {
+    "file": "assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff2"
   },
-  "node_modules/@fontsource-variable/open-sans/files/open-sans-hebrew-wght-normal.woff2": {
-    "file": "assets/open-sans-hebrew-wght-normal-BjjtG49P.woff2",
-    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-hebrew-wght-normal.woff2"
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff": {
+    "file": "assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff"
   },
-  "node_modules/@fontsource-variable/open-sans/files/open-sans-latin-ext-wght-normal.woff2": {
-    "file": "assets/open-sans-latin-ext-wght-normal-DPNHYqvY.woff2",
-    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-latin-ext-wght-normal.woff2"
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff2": {
+    "file": "assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff2"
   },
-  "node_modules/@fontsource-variable/open-sans/files/open-sans-latin-wght-normal.woff2": {
-    "file": "assets/open-sans-latin-wght-normal-CWNzRldh.woff2",
-    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-latin-wght-normal.woff2"
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff": {
+    "file": "assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff"
   },
-  "node_modules/@fontsource-variable/open-sans/files/open-sans-math-wght-normal.woff2": {
-    "file": "assets/open-sans-math-wght-normal-C1FvUlkR.woff2",
-    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-math-wght-normal.woff2"
-  },
-  "node_modules/@fontsource-variable/open-sans/files/open-sans-symbols-wght-normal.woff2": {
-    "file": "assets/open-sans-symbols-wght-normal-BAf6-sld.woff2",
-    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-symbols-wght-normal.woff2"
-  },
-  "node_modules/@fontsource-variable/open-sans/files/open-sans-vietnamese-wght-normal.woff2": {
-    "file": "assets/open-sans-vietnamese-wght-normal-UygKeDyW.woff2",
-    "src": "node_modules/@fontsource-variable/open-sans/files/open-sans-vietnamese-wght-normal.woff2"
+  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff2": {
+    "file": "assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
+    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff2"
   },
   "node_modules/react-dom/client.js": {
-    "file": "assets/client-BMzd74oC.js",
+    "file": "assets/client-ByVGQgHF.js",
     "name": "client",
     "src": "node_modules/react-dom/client.js",
     "isDynamicEntry": true,
