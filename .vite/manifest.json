@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/app-BTQuvjoU.js",
+    "file": "assets/app-D7GN0eyX.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
@@ -8,7 +8,7 @@
       "node_modules/react-dom/client.js"
     ],
     "css": [
-      "assets/app-DqC2NOsM.css"
+      "assets/app-DgFCvrUH.css"
     ],
     "assets": [
       "assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -109,7 +109,7 @@
     "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff2"
   },
   "node_modules/react-dom/client.js": {
-    "file": "assets/client-ByVGQgHF.js",
+    "file": "assets/client-Cq_lofvO.js",
     "name": "client",
     "src": "node_modules/react-dom/client.js",
     "isDynamicEntry": true,
