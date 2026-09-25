@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://satusisteminti.com/sitemap.xml
+Sitemap: https://satusisteminti.github.io/sitemap.xml
