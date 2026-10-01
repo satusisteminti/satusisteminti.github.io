@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/app-D7GN0eyX.js",
+    "file": "assets/app-I_dsQ5n7.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
@@ -8,7 +8,7 @@
       "node_modules/react-dom/client.js"
     ],
     "css": [
-      "assets/app-DgFCvrUH.css"
+      "assets/app-DLqFfYhi.css"
     ],
     "assets": [
       "assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -22,14 +22,9 @@
       "assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
       "assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
       "assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-      "assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-      "assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-      "assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-      "assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-      "assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-      "assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-      "assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-      "assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+      "assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+      "assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+      "assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
     ]
   },
   "node_modules/@fontsource-variable/geist-mono/files/geist-mono-cyrillic-ext-wght-normal.woff2": {
@@ -76,40 +71,20 @@
     "file": "assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
     "src": "node_modules/@fontsource-variable/geist/files/geist-vietnamese-wght-normal.woff2"
   },
-  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff": {
-    "file": "assets/instrument-serif-latin-400-italic-u__WvvIK.woff",
-    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff"
+  "node_modules/@fontsource-variable/space-grotesk/files/space-grotesk-latin-ext-wght-normal.woff2": {
+    "file": "assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "src": "node_modules/@fontsource-variable/space-grotesk/files/space-grotesk-latin-ext-wght-normal.woff2"
   },
-  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff2": {
-    "file": "assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-italic.woff2"
+  "node_modules/@fontsource-variable/space-grotesk/files/space-grotesk-latin-wght-normal.woff2": {
+    "file": "assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2",
+    "src": "node_modules/@fontsource-variable/space-grotesk/files/space-grotesk-latin-wght-normal.woff2"
   },
-  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff": {
-    "file": "assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff"
-  },
-  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff2": {
-    "file": "assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-400-normal.woff2"
-  },
-  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff": {
-    "file": "assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff"
-  },
-  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff2": {
-    "file": "assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-italic.woff2"
-  },
-  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff": {
-    "file": "assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff"
-  },
-  "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff2": {
-    "file": "assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "src": "node_modules/@fontsource/instrument-serif/files/instrument-serif-latin-ext-400-normal.woff2"
+  "node_modules/@fontsource-variable/space-grotesk/files/space-grotesk-vietnamese-wght-normal.woff2": {
+    "file": "assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "src": "node_modules/@fontsource-variable/space-grotesk/files/space-grotesk-vietnamese-wght-normal.woff2"
   },
   "node_modules/react-dom/client.js": {
-    "file": "assets/client-Cq_lofvO.js",
+    "file": "assets/client-Br-Es_Ro.js",
     "name": "client",
     "src": "node_modules/react-dom/client.js",
     "isDynamicEntry": true,

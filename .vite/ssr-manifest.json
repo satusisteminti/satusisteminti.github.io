@@ -11,14 +11,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "\u0000vite/modulepreload-polyfill.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -32,14 +27,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "\u0000vite/preload-helper.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -53,14 +43,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "index.html": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -74,14 +59,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/primitive/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -95,14 +75,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-accordion/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -116,14 +91,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-collapsible/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -137,14 +107,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-collection/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -158,14 +123,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-compose-refs/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -179,14 +139,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-context/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -200,14 +155,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-dialog/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -221,14 +171,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-direction/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -242,14 +187,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-dismissable-layer/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -263,14 +203,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-focus-guards/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -284,14 +219,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-focus-scope/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -305,14 +235,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-id/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -326,14 +251,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-label/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -347,14 +267,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-portal/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -368,14 +283,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-presence/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -389,14 +299,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-primitive/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -410,14 +315,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-slot/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -431,14 +331,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-use-callback-ref/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -452,14 +347,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-use-controllable-state/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -473,14 +363,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-use-effect-event/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -494,14 +379,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@radix-ui/react-use-layout-effect/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -515,14 +395,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/@remix-run/router/dist/router.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -536,14 +411,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/aria-hidden/dist/es2015/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -557,14 +427,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/class-variance-authority/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -578,14 +443,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/clsx/dist/clsx.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -599,14 +459,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/cn/dist/engine.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -620,14 +475,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/cn/dist/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -641,14 +491,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/cn/dist/tables.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -662,14 +507,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/get-nonce/dist/es2015/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -683,14 +523,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/gsap/CSSPlugin.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -704,14 +539,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/gsap/Observer.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -725,14 +555,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/gsap/ScrollTrigger.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -746,14 +571,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/gsap/gsap-core.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -767,14 +587,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/gsap/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -788,14 +603,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/invariant/browser.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -809,14 +619,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/Icon.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -830,14 +635,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/context.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -851,14 +651,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/createLucideIcon.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -872,14 +667,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/icons/arrow-right.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -893,14 +683,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/icons/arrow-up-right.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -914,14 +699,25 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
+  ],
+  "node_modules/lucide-react/dist/esm/icons/check.mjs": [
+    "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+    "/assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+    "/assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+    "/assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+    "/assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+    "/assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+    "/assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+    "/assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+    "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+    "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+    "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/icons/chevron-down.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -935,14 +731,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/icons/chevron-up.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -956,14 +747,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/icons/menu.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -977,14 +763,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/icons/message-circle.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -998,14 +779,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/icons/moon.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1019,14 +795,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/icons/send.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1040,14 +811,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/icons/sun.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1061,14 +827,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/icons/x.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1082,14 +843,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/shared/src/build/buildLucideIconForReact.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1103,14 +859,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/shared/src/build/buildLucideIconNode.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1124,14 +875,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/shared/src/build/defaultAttributes.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1145,14 +891,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/shared/src/utils/hasA11yProp.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1166,14 +907,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/shared/src/utils/mergeClasses.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1187,14 +923,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/shared/src/utils/toCamelCase.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1208,14 +939,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/shared/src/utils/toKebabCase.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1229,14 +955,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/shared/src/utils/toLucideIconData.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1250,14 +971,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/lucide-react/dist/esm/shared/src/utils/toPascalCase.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1271,14 +987,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/prop-types/factoryWithThrowingShims.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1292,14 +1003,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/prop-types/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1313,14 +1019,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/prop-types/lib/ReactPropTypesSecret.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1334,17 +1035,12 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-dom/cjs/react-dom-client.production.js": [
-    "/assets/client-Cq_lofvO.js"
+    "/assets/client-Br-Es_Ro.js"
   ],
   "node_modules/react-dom/cjs/react-dom.production.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1358,17 +1054,12 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-dom/client.js": [
-    "/assets/client-Cq_lofvO.js"
+    "/assets/client-Br-Es_Ro.js"
   ],
   "node_modules/react-dom/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1382,14 +1073,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-fast-compare/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1403,14 +1089,57 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
+  ],
+  "node_modules/react-icons/lib/iconBase.mjs": [
+    "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+    "/assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+    "/assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+    "/assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+    "/assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+    "/assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+    "/assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+    "/assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+    "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+    "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+    "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
+  ],
+  "node_modules/react-icons/lib/iconContext.mjs": [
+    "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+    "/assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+    "/assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+    "/assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+    "/assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+    "/assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+    "/assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+    "/assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+    "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+    "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+    "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
+  ],
+  "node_modules/react-icons/si/index.mjs": [
+    "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+    "/assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+    "/assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+    "/assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+    "/assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+    "/assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+    "/assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+    "/assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+    "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+    "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+    "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll-bar/dist/es2015/component.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1424,14 +1153,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll-bar/dist/es2015/constants.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1445,14 +1169,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll-bar/dist/es2015/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1466,14 +1185,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll-bar/dist/es2015/utils.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1487,14 +1201,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll/dist/es2015/Combination.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1508,14 +1217,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll/dist/es2015/SideEffect.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1529,14 +1233,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll/dist/es2015/UI.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1550,14 +1249,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll/dist/es2015/aggresiveCapture.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1571,14 +1265,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll/dist/es2015/handleScroll.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1592,14 +1281,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll/dist/es2015/medium.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1613,14 +1297,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-remove-scroll/dist/es2015/sidecar.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1634,14 +1313,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-router-dom/dist/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1655,14 +1329,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-router/dist/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1676,14 +1345,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-style-singleton/dist/es2015/component.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1697,14 +1361,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-style-singleton/dist/es2015/hook.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1718,14 +1377,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-style-singleton/dist/es2015/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1739,14 +1393,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react-style-singleton/dist/es2015/singleton.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1760,14 +1409,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react/cjs/react-jsx-runtime.production.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1781,14 +1425,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react/cjs/react.production.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1802,14 +1441,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1823,14 +1457,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/react/jsx-runtime.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1844,20 +1473,15 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/scheduler/cjs/scheduler.production.js": [
-    "/assets/client-Cq_lofvO.js"
+    "/assets/client-Br-Es_Ro.js"
   ],
   "node_modules/scheduler/index.js": [
-    "/assets/client-Cq_lofvO.js"
+    "/assets/client-Br-Es_Ro.js"
   ],
   "node_modules/shallowequal/index.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1871,14 +1495,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/tslib/tslib.es6.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1892,14 +1511,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/use-callback-ref/dist/es2015/assignRef.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1913,14 +1527,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/use-callback-ref/dist/es2015/useMergeRef.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1934,14 +1543,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/use-callback-ref/dist/es2015/useRef.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1955,14 +1559,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/use-sidecar/dist/es2015/exports.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1976,14 +1575,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/use-sidecar/dist/es2015/medium.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -1997,14 +1591,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/vite-react-ssg/dist/index.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2018,14 +1607,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.BhGKpaqQ.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2039,14 +1623,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.C1RTs5UA.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2060,14 +1639,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/vite-react-ssg/dist/shared/vite-react-ssg.CoMLbIiW.mjs": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2081,14 +1655,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "node_modules/vite-react-ssg/node_modules/react-helmet-async/lib/index.module.js": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2102,14 +1671,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/App.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2123,14 +1687,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ScrollToTop.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2144,14 +1703,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/Seo.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2165,14 +1719,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ThemeToggle.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2186,14 +1735,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/icons/social.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2207,14 +1751,25 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
+  ],
+  "src/components/layout/Brand.tsx": [
+    "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+    "/assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+    "/assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+    "/assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+    "/assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+    "/assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+    "/assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+    "/assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+    "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+    "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+    "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/layout/Footer.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2228,14 +1783,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/layout/Navbar.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2249,14 +1799,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/CtaBanner.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2270,14 +1815,25 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
+  ],
+  "src/components/sections/Deliverables.tsx": [
+    "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+    "/assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+    "/assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+    "/assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+    "/assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+    "/assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+    "/assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+    "/assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+    "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+    "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+    "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/Hero.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2291,14 +1847,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/ProblemSolution.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2312,14 +1863,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/Process.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2333,14 +1879,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/Services.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2354,14 +1895,25 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
+  ],
+  "src/components/sections/SystemFlow.tsx": [
+    "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+    "/assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+    "/assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+    "/assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+    "/assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+    "/assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+    "/assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+    "/assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+    "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+    "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+    "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/TechStack.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2375,14 +1927,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/WhyUs.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2396,14 +1943,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/about/AboutHero.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2417,14 +1959,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/about/Capabilities.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2438,14 +1975,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/about/CompanyProfile.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2459,14 +1991,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/about/CompanyStory.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2480,14 +2007,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/about/Milestones.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2501,14 +2023,41 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
+  ],
+  "src/components/sections/about/ProfileTerminal.tsx": [
+    "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+    "/assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+    "/assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+    "/assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+    "/assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+    "/assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+    "/assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+    "/assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+    "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+    "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+    "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
+  ],
+  "src/components/sections/about/SystemLayers.tsx": [
+    "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
+    "/assets/geist-cyrillic-wght-normal-BEAKL7Jp.woff2",
+    "/assets/geist-vietnamese-wght-normal-6IgcOCM7.woff2",
+    "/assets/geist-latin-ext-wght-normal-DC-KSUi6.woff2",
+    "/assets/geist-latin-wght-normal-BgDaEnEv.woff2",
+    "/assets/geist-mono-cyrillic-ext-wght-normal-X_5orZeX.woff2",
+    "/assets/geist-mono-cyrillic-wght-normal-DiZS0aHC.woff2",
+    "/assets/geist-mono-symbols2-wght-normal-CO5SzqOn.woff2",
+    "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
+    "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
+    "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/about/VisionMission.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2522,14 +2071,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/about/WorkCulture.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2543,14 +2087,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/contact/ContactChannels.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2564,14 +2103,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/contact/ContactFaq.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2585,14 +2119,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/contact/ContactForm.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2606,14 +2135,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/contact/ContactHero.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2627,14 +2151,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/sections/legal/LegalDocument.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2648,14 +2167,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ui/accordion.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2669,14 +2183,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ui/button.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2690,14 +2199,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ui/editorial-list.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2711,14 +2215,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ui/faq-list.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2732,14 +2231,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ui/input.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2753,14 +2247,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ui/label.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2774,14 +2263,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ui/photo.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2795,14 +2279,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ui/section.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2816,14 +2295,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ui/sheet.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2837,14 +2311,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/components/ui/textarea.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2858,14 +2327,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/hooks/use-gsap.ts": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2879,14 +2343,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/hooks/use-theme.ts": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2900,14 +2359,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/index.css": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2921,14 +2375,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/layouts/RootLayout.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2942,14 +2391,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/lib/about-content.ts": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2963,14 +2407,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/lib/contact-content.ts": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -2984,14 +2423,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/lib/faq-content.ts": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3005,14 +2439,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/lib/home-content.ts": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3026,14 +2455,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/lib/legal-content.ts": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3047,14 +2471,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/lib/site-config.ts": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3068,14 +2487,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/main.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3089,14 +2503,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/pages/About.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3110,14 +2519,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/pages/Contact.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3131,14 +2535,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/pages/Faq.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3152,14 +2551,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/pages/Home.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3173,14 +2567,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/pages/Privacy.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3194,14 +2583,9 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ],
   "src/pages/Terms.tsx": [
     "/assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -3215,13 +2599,8 @@
     "/assets/geist-mono-vietnamese-wght-normal-DadHysG0.woff2",
     "/assets/geist-mono-latin-ext-wght-normal-Bwz-egvJ.woff2",
     "/assets/geist-mono-latin-wght-normal-XN7g48iV.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-C2je3j2s.woff2",
-    "/assets/instrument-serif-latin-ext-400-normal-CFCUzsTy.woff",
-    "/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
-    "/assets/instrument-serif-latin-400-normal-BVbkICAY.woff",
-    "/assets/instrument-serif-latin-ext-400-italic-C9HzH3YL.woff2",
-    "/assets/instrument-serif-latin-ext-400-italic-D7-lnxEk.woff",
-    "/assets/instrument-serif-latin-400-italic-DKMiL14s.woff2",
-    "/assets/instrument-serif-latin-400-italic-u__WvvIK.woff"
+    "/assets/space-grotesk-vietnamese-wght-normal-D0rl6rjA.woff2",
+    "/assets/space-grotesk-latin-ext-wght-normal-D9tNdqV9.woff2",
+    "/assets/space-grotesk-latin-wght-normal-BhU9QXUp.woff2"
   ]
 }
