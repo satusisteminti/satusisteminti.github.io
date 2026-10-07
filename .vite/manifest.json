@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/app-DHFLJplX.js",
+    "file": "assets/app-m07DEWue.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
@@ -8,7 +8,7 @@
       "node_modules/react-dom/client.js"
     ],
     "css": [
-      "assets/app-C-0RNyFC.css"
+      "assets/app-ixBDyF0A.css"
     ],
     "assets": [
       "assets/geist-cyrillic-ext-wght-normal-DjL33-gN.woff2",
@@ -84,7 +84,7 @@
     "src": "node_modules/@fontsource-variable/space-grotesk/files/space-grotesk-vietnamese-wght-normal.woff2"
   },
   "node_modules/react-dom/client.js": {
-    "file": "assets/client-Db2QGZxA.js",
+    "file": "assets/client-Dj0Az6AF.js",
     "name": "client",
     "src": "node_modules/react-dom/client.js",
     "isDynamicEntry": true,
