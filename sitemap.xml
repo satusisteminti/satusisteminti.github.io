@@ -21,6 +21,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://satusisteminti.github.io/harga</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://satusisteminti.github.io/keamanan</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
