@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/app-DDJKBkak.js",
+    "file": "assets/app-BEq3kJk9.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
@@ -84,7 +84,7 @@
     "src": "node_modules/@fontsource-variable/space-grotesk/files/space-grotesk-vietnamese-wght-normal.woff2"
   },
   "node_modules/react-dom/client.js": {
-    "file": "assets/client-BhTQwpYW.js",
+    "file": "assets/client-CduOpzF5.js",
     "name": "client",
     "src": "node_modules/react-dom/client.js",
     "isDynamicEntry": true,
